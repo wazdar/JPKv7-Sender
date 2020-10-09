@@ -1,6 +1,6 @@
 # JPKv7-Sender
 It's small semi-auto app to sending JPkv7m and JPKv7k. Use only for TEST API in Ministry of Finance.
-It uses tkinter and was designed using [PAGE](http://page.sourceforge.net/). Jest zgodne ze specyfikacją testowego api [LINK](https://www.podatki.gov.pl/media/1138/specyfikacja_interfejsow_uslug_jpk_wersja_2_3.pdf)
+It uses tkinter and was designed using [PAGE](http://page.sourceforge.net/). It conforms to the specification of the test api [LINK](https://www.podatki.gov.pl/media/1138/specyfikacja_interfejsow_uslug_jpk_wersja_2_3.pdf)
 ![JPKv7](./docs/assets/jpk-main.PNG)
 
 # Run
