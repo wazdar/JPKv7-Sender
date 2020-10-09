@@ -1,0 +1,5 @@
+auto-py-to-exe==2.7.8
+azure-core==1.8.1
+azure-storage-blob==12.5.0
+requests==2.24.0
+pycryptodome==3.9.8
